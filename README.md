@@ -1,1 +1,1 @@
- A SPA aplication in which data is loaded only when it arrives.
+ A SPA aplication in which data is loaded only when requested.
